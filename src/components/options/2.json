@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [138.48406087198447, -35.09694820846758]
+        },
+        "properties": {
+          "Station_ID": 488,
+          "Station_Name": "Adelaide Desalination",
+          "Station_Code": "ADP",
+          "Facility": "ADPBA1L",
+          "Facility_ID": 689,
+          "Fueltech_Label": "Battery (Charging)",
+          "Renewable": "True",
+          "Capacity": 6.27,
+          "Date": "Committed on 01/04/2021, 11:25 AM",
+          "Status": "Committed",
+          "index": 2
+        }
+      }
+    ]
+  }
+  

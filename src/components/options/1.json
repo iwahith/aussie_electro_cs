@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [152.9344444, -29.615]
+        },
+        "properties": {
+          "Station_ID": 480,
+          "Station_Name": "",
+          "Station_Code": "KOOLKHAN",
+          "Facility": "KKGTS",
+          "Facility_ID": 652,
+          "Fueltech_Label": "Gas (CCGT)",
+          "Renewable": "False",
+          "Capacity": null,
+          "Date": "Retired on 03/03/2000, 3:00 PM",
+          "Status": "Retired",
+          "index": 0
+        }
+      }
+    ]
+  }
+  
